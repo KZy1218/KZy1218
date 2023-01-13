@@ -1,9 +1,9 @@
 ### About me 👋
 
-- 👨‍🎓 Columbia University (M.S. in Financial Engineering) & The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Mathematics)
+- 👨‍🎓 Columbia University (M.S. in Financial Engineering) & The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Math)
 - 💼 I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc.
-- ⚽ Huge fan of Messi
 - 📖 Studying full stack techniques 
+- ⚽ Huge fan of Messi
 
 ### Github Status 💻
 <a href="https://github.com/KZy1218/github-readme-stats">
