@@ -1,6 +1,6 @@
 ### About me 👋
 
-- 👨‍🎓 I'm a graduate from Columbia University and The Chinese University of Hong Kong, Shenzhen
+- 👨‍🎓 Columbia University (M.S. in Financial Engineering) & The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Mathematics)
 - 💼 I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc.
 - ⚽ Huge fan of Messi
 - 📖 Studying full stack techniques 
@@ -8,7 +8,7 @@
 ### Github Status
 
 <a href="https://github.com/KZy1218/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-black-sigma.vercel.app/api?username=KZy1218&show_icons=true&include_all_commits=true&theme=theme=buefy&hide_border=true" alt="Kevin's github stats" /></a>  <a href="https://github.com/KZy1218/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-black-sigma.vercel.app/api?username=KZy1218&show_icons=true&include_all_commits=true&theme=theme=buefy&hide_border=true" alt="Kevin's github stats" /></a> <a href="https://github.com/KZy1218/github-readme-stats">
   <img align="center" src="https://github-readme-stats-black-sigma.vercel.app/api/top-langs/?username=KZy1218&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
