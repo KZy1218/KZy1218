@@ -1,6 +1,7 @@
 ### About me 👋
 
-- 👨‍🎓 Columbia University (M.S. in Financial Engineering) & The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Math)
+- 👨‍🎓 Columbia University (M.S. in Financial Engineering)
+- 👨‍🎓 The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Math)
 - 💼 I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc.
 - 📖 Studying full stack techniques 
 - ⚽ Huge fan of Messi
