@@ -5,14 +5,7 @@
 
 ### Github Status
 
-<a href="https://github.com/KZy1218/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KZy1218&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/KZy1218/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KZy1218&repo=convoychat" />
-</a>
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KZy1218&show_icons=true&theme=cobalt)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KZy1218&show_icons=true&theme=cobalt&font=calibri)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KZy1218&layout=compact)](https://github.com/KZy1218/github-readme-stats)
 
