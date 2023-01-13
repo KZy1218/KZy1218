@@ -5,10 +5,11 @@
 - ⚽ Huge fan of Messi
 - 📖 Studying full stack techniques 
 
-### Github Status
+### Github Status 💻
 <a href="https://github.com/KZy1218/github-readme-stats">
   <img align="center" src="https://github-readme-stats-black-sigma.vercel.app/api?username=KZy1218&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Kevin's github stats" />
 </a> 
+<br />
 
 <a href="https://github.com/KZy1218/github-readme-stats">
   <img align="center" src="https://github-readme-stats-black-sigma.vercel.app/api/top-langs/?username=KZy1218" />
