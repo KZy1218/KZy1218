@@ -1,21 +1,17 @@
-### Hi there 👋
+### About me 👋
 
-- I'm looking for full-time opportunities in Quant Finance
-
+- 👨‍🎓 I'm a graduate from Columbia University and The Chinese University of Hong Kong, Shenzhen
+- 💼 I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc.
+- ⚽ Huge fan of Messi
+- 📖 Studying full stack techniques 
 
 ### Github Status
 
-<a href="https://github.com/KZy1218/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KZy1218&repo=cs61b" />
-</a>
-<a href="https://github.com/KZy1218/KZy1218">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KZy1218&repo=KZy1218" />
-</a>
+| <a href="https://github.com/KZy1218/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KZy1218&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/KZy1218/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZy1218&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KZy1218&show_icons=true&theme=cobalt&font=Calibri)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KZy1218&layout=compact)](https://github.com/KZy1218/github-readme-stats)
 
 
 <!--
