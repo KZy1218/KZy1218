@@ -1,9 +1,10 @@
-### About me 👋
-- 💼 I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc
+### About Me 👋
+- 💼 **I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc**
 - 👨‍🎓 Columbia University (M.S. in Financial Engineering)
 - 👨‍🎓 The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Math)
 - 📖 Studying full stack techniques 
 - ⚽ Huge fan of Messi
+- 🔗 [Personal Portfolio](https://kzy1218.github.io/KevinZhang.github.io/)
 
 ### Github Status 💻
 <a href="https://github.com/KZy1218/github-readme-stats">
