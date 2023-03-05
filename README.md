@@ -1,5 +1,5 @@
 ### About Me 👋
-- 💼 **I'm actively looking for full-time opportunities in quantitative related field such as quant finance, data science etc**
+- 💼 **Currently working as a technical consultant in FinTech industry, deeply intersted in quantitative finance and modeling financial problems using coding and mathematic techniques**
 - 👨‍🎓 Columbia University (M.S. in Financial Engineering)
 - 👨‍🎓 The Chinese University of Hong Kong, Shenzhen (B.S. in Financial Math)
 - 📖 Studying full stack techniques 
